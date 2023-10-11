@@ -7,7 +7,7 @@ Demonstrate your ability to work with AWS by creating an S3 bucket and uploading
 
 ### 1. AWS Account Setup
 - Create a new AWS account.
-- Make sure to use the free tier which is valid for 24 months.
+- Make sure to use the free tier which is valid for 12 months.
 
 ### 2. S3 Bucket Creation
 - Create a new S3 bucket in a region of your choice.
@@ -24,6 +24,7 @@ Demonstrate your ability to work with AWS by creating an S3 bucket and uploading
 ### 5. Submission
 - Provide the public link to your uploaded CV for review. 
 - If you used Terraform, also provide the link to your Terraform repository.
+- Here is the email adress to use `dl-interns-23-24@teliacompanyspace.onmicrosoft.com`
 
 ## Notes
 - Ensure you're familiar with AWS's free tier limits to avoid any unexpected charges.
